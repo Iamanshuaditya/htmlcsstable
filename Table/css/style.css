@@ -1,0 +1,27 @@
+body{
+    background: #FFEFD5;
+}
+
+header {
+    background-color:rgba(190, 31, 31, 0.459);
+    width: 20em;
+    font-size: medium;
+    
+}
+
+header span{
+    background-color: rgba(222, 247, 5, 0.829);
+}
+
+#gray{
+    background-color: gray;
+}
+
+.lightgray{
+    background-color: lightgray
+}
+
+footer{
+    background-color: rgba(34, 33, 33, 0.247);
+    width: 10em;
+}
